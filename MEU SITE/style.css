@@ -1,2 +1,22 @@
 @charset "UTF-8";
 
+body {
+    background-color: rgb(250, 247, 199);
+}
+
+main {
+    background-color: white;
+    box-shadow: 3px 3px 5px black;
+    width: 700px;
+    border-radius: 5px;
+    padding: 10px;
+    margin: auto;
+}
+
+h1 {
+    text-align: center;
+}
+
+p{
+    text-align: justify;
+}
